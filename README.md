@@ -1,5 +1,5 @@
 # Conferences and Events
-A list of all Developer Conferences and events. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer this. 
+A list of all Developer Conferences and events. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------). 
 
 * [GDG Pune DevFest](https://www.meetup.com/Pune-GDG/events/254445716/)
 * [WiDS Pune Conference](https://sites.google.com/view/widspune2019/about)
