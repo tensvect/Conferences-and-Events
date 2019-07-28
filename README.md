@@ -7,3 +7,9 @@ A list of all Developer Conferences and events.
 * [PyCon India](https://in.pycon.org/2019/)
 * [ODSC India](https://india.odsc.com/) 
 
+---
+
+Feel free to reach out to anyone of us mentioned below if you need any help, or wish to discuss anything, or perhaps just a random chat. Flashing conversations are something even we like. Yes, we do reply to emails.
+
+- Jaydeep Borkar (jaijborkar@gmail.com)
+- Rohit Awate (rohitawate121@gmail.com)
